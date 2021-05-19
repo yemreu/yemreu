@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/yemreu/count.svg)
+![](https://komarev.com/ghpvc/?username=yemreu&color=orange&style=plastic&label=Profile+Views)
 
 - 👋 Hi, I’m @yemreu
 - 👀 I’m interested in ...
